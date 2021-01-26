@@ -1,4 +1,4 @@
-from toblibz.lib import *
+from toblibz.lib import findc,diffi,dec
 with open("./input") as f:
     v=0
     for i in f:
